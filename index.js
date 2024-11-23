@@ -5,3 +5,4 @@ featureCommit2
 featureCommit3
 featureCommit4
 featureCommit5
+featureCommit6
