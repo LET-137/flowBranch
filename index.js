@@ -2,3 +2,4 @@ hoge
 huga
 featureCommit1
 featureCommit2
+featureCommit3
