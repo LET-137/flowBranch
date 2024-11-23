@@ -1,6 +1,8 @@
-hoge
 <<<<<<< HEAD
-huga
 =======
+hoge
 hogehoge
->>>>>>> 1eea677 (コミット修正)
+
+refactor1
+refactor2
+>>>>>>> ae2e68c (refactor2)
