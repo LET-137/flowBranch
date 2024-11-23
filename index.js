@@ -3,4 +3,5 @@ huga
 featureCommit1
 featureCommit2
 featureCommit3
-conflict
+featureCommit4
+featureCommit5
