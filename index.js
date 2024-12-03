@@ -9,3 +9,4 @@ featureCommit6
 featureCommit7
 featureCommit8
 featureCommitMaster1
+featureCommitMaster2
