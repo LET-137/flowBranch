@@ -7,3 +7,4 @@ featureCommit4
 featureCommit5
 featureCommit6
 featureCommit7
+featureCommit8
